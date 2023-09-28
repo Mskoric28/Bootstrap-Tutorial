@@ -1,0 +1,22 @@
+.jumbotron{
+   
+}
+
+.jumbotron {
+    padding: 2rem;
+    margin-bottom: 2rem;
+    background-color: var(--bs-light);
+    border-radius: .3rem;
+     text-align: center;
+    background: none;
+
+}
+.jumbotron-fluid {
+    padding-right: 0;
+    padding-left: 0;
+    @include border-radius(0);
+}
+
+.sectionLight{
+    background-color:floralwhite;
+}
