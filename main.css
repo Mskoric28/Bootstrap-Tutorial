@@ -1,5 +1,5 @@
 .jumbotron{
-   
+
 }
 
 .jumbotron {
@@ -7,7 +7,7 @@
     margin-bottom: 2rem;
     background-color: var(--bs-light);
     border-radius: .3rem;
-     text-align: center;
+    text-align: center;
     background: none;
 
 }
@@ -19,4 +19,33 @@
 
 .sectionLight{
     background-color:floralwhite;
+    padding: 2rem;
+}
+
+.sectionDark{
+    background-color: antiquewhite;
+    padding: 2rem;
+}
+
+.stuffbtn{
+    background-color: brown;
+    margin-top: 20px;
+    display: block;
+    margin: auto;
+}
+
+h1.modal-title{
+    display: block;
+    margin: auto;
+}
+
+.modalFormWrapper{
+    padding: 2rem;
+}
+
+.imgCentre{
+    display: block;
+    margin: auto;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
 }
