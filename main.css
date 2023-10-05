@@ -49,3 +49,31 @@ h1.modal-title{
     padding-top: 2rem;
     padding-bottom: 2rem;
 }
+
+.footer{
+    background-color: black;
+}
+
+.f-img{
+    padding: 10px;
+}
+
+.fa-facebook-square{
+    color: #1877F2;
+}
+
+.fa-google-plus-square{
+    color: red;
+}
+
+.fa-instagram {
+    color: white;
+}
+
+.fa{
+    margin: 10px;
+}
+
+.social-wrapper{
+    margin: auto;
+}
